@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TextMorph/static/css/main.f855e6bc.css",
+    "main.js": "/TextMorph/static/js/main.952b5e4c.js",
+    "index.html": "/TextMorph/index.html",
+    "main.f855e6bc.css.map": "/TextMorph/static/css/main.f855e6bc.css.map",
+    "main.952b5e4c.js.map": "/TextMorph/static/js/main.952b5e4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.952b5e4c.js"
+  ]
+}
